@@ -1,0 +1,1 @@
+"""Synthetic workforce scheduling demo."""
